@@ -1,5 +1,3 @@
-// Tutorial timestamp: 17:39
-
 #include <iostream>
 #include <cstdint>
 #include <map>
